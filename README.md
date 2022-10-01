@@ -2,7 +2,7 @@
 
 A front-end React interface to find and listen to your music, using Itunes API to browser songs and the possibility to save them as your favorite.
 
-The files enlisted in this repository were fully developed by @Jvieyrah amd to run them in your machine make sure you have the latest version of Node JS installed at your machine, alongside with react and redux.
+The files enlisted in this repository were fully developed by @Jvieyrah and to run them in your machine make sure you have the latest version of Node JS installed at your machine, alongside with react and redux.
 
 Before start - enter the clonned repositoryand instal it's the dependencies by typing on your terminal: npm install
 once installed typy 'npm start' at your terminal to run it on your browser.
