@@ -7,7 +7,7 @@ The files enlisted in this repository were fully developed by @Jvieyrah amd to r
 Before start - enter the clonned repositoryand instal it's the dependencies by typing on your terminal: npm install
 once installed typy 'npm start' at your terminal to run it on your browser.
 
-Insert your name to start  account).
+Insert your name to start  account.
 
 <img src='login.png' alt="login">
 
@@ -15,7 +15,7 @@ The feel free to browse even the most exotic and unknwn artits, this interface c
 
 <img src='search.png' alt="search">
 
-(in my case i wanted to hear a not so famous israeli singuer Idam Raichel)
+(in my case i wanted to hear a not so famous israeli singuer Idan Raichel)
 
 <img src='searchF.png' alt="result">
 
